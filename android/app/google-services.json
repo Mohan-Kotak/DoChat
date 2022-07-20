@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "140620809821",
+    "project_id": "dochat-1147a",
+    "storage_bucket": "dochat-1147a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140620809821:android:144f4d8a7ecc03fc1a6fb4",
+        "android_client_info": {
+          "package_name": "com.dochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140620809821-mjrsu45m5rdo98pjtf8mmb8p38qqa6qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dochat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "140620809821-dnaendoqcct10vd8pqcrq10subm6j7ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbOF_7tlC8ANc_fqo4hdyZNDeWT-NCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140620809821-dnaendoqcct10vd8pqcrq10subm6j7ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140620809821:android:13cab01e3c436b271a6fb4",
+        "android_client_info": {
+          "package_name": "com.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140620809821-dnaendoqcct10vd8pqcrq10subm6j7ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbOF_7tlC8ANc_fqo4hdyZNDeWT-NCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140620809821-dnaendoqcct10vd8pqcrq10subm6j7ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,18 +1,12 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
 import React from 'react';
 import {SafeAreaView} from 'react-native';
 import LoginScreen from './src/containers/screens/LoginScreen';
-
+import Chat from './src/containers/screens/chat/Chat';
+import Stack from './src/navigators/stack'
 const App = () => {
   return (
-    <LoginScreen/>
+   <Stack />
+   
   );
 };
 

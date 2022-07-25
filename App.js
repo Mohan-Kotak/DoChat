@@ -11,9 +11,9 @@ import {SafeAreaView} from 'react-native';
 import LoginScreen from './src/containers/screens/LoginScreen';
 
 const App = () => {
-  return (<SafeAreaView >
+  return (
     <LoginScreen/>
-  </SafeAreaView>);
+  );
 };
 
 export default App;
